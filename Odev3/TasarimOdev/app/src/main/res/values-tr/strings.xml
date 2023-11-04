@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sahibinden</string>
+
+    <string name="slogan">İlanlarınız bizimle güvenli, içiniz rahat etsin, bize güvenin.</string>
+    <string name="satilik">Satılık</string>
+    <string name="ilanDetayi">İlan Detayı</string>
+    <string name="aciklama">Açıklama</string>
+    <string name="konum">Konumu</string>
+    <string name="iletisim">İletişime Geç</string>
+
+</resources>

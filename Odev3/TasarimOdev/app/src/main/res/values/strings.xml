@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sahibinden</string>
+
+    <string name="slogan">Your ads are safe with us, rest assured, trust us.</string>
+    <string name="satilik">For sale</string>
+    <string name="ilanDetayi">Ad Detail</string>
+    <string name="aciklama">Explanation</string>
+    <string name="konum">Location</string>
+    <string name="iletisim">Contact Us</string>
+    <string name="fiyat">$ 100.000</string>
+
+</resources>
